@@ -1,6 +1,6 @@
 # 🌍 Digital Economy Intelligence Framework  
 ### By **Peter Bamidele (PeterAnalytica)**  
-Founder, **Ace Insights** & **Ace Consulting & Analytics (ACA)**
+Founder, **Sovereign Infrastructure Logic Ltd**
 
 A comprehensive, structured intelligence system that explains how the digital economy works — its technologies, systems, signals, risks, opportunities, and the skills needed to thrive within it.
 
