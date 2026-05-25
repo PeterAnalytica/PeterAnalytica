@@ -1,136 +1,167 @@
-# 🌍 Digital Economy Intelligence Framework  
-### By **Peter Bamidele (PeterAnalytica)**  
-Founder, **Sovereign Infrastructure Logic Ltd**
+# SOVRA Sovereign Intelligence Stack
 
-A comprehensive, structured intelligence system that explains how the digital economy works — its technologies, systems, signals, risks, opportunities, and the skills needed to thrive within it.
+## Digital Economy Intelligence & Systems Architecture
 
-This repository serves as a **living knowledge base** covering AI, Web3, automation, analytics, digital identity, decentralized infrastructure, digital citizenship, and global skills transformation.
-
----
-
-## 🎯 Purpose  
-To provide individuals, organizations and institutions with a **clear, strategic and practical framework** for understanding:
-
-- The structure of the digital economy  
-- How value is created and exchanged  
-- How technology shapes work, money, identity and opportunity  
-- How citizens, businesses and governments adapt  
-- How to build competence and strategic advantage  
+By Peter Bamidele (PeterAnalytica)  
+Founder, Sovereign Infrastructure Logic Ltd (SIL)
 
 ---
 
-## 📡 Core Areas Covered  
-### **1️⃣ Digital Economy Structure**  
-- Core layers  
-- Value exchange  
-- Digital public infrastructure  
-- AI ecosystems  
-- Web3 and decentralized systems  
-- Automation and workforce change  
+## SYSTEM OVERVIEW
 
-### **2️⃣ Global Digital Signals**  
-- Weekly intelligence  
-- Macro and micro indicators  
-- Trend analysis  
-- Emerging opportunities  
-- Regional comparisons  
+This repository has evolved into the foundational layer of the **SOVRA Sovereign Intelligence Stack**, a structured intelligence architecture for understanding and engineering the digital economy.
 
-### **3️⃣ AI, Automation & Agentic Systems**  
-- AI workflows  
-- Intelligent agents  
-- Automation pipelines  
-- Decision systems  
-
-### **4️⃣ Web3 Accounting & On-Chain Finance**  
-- Wallet analytics  
-- Smart-contract accounting  
-- Token valuation  
-- DeFi audits  
-- On-chain reporting  
-
-### **5️⃣ DePIN & Digital Infrastructure**  
-- Citizen-powered infrastructure  
-- Compute, bandwidth & mobility networks  
-- Practical value and adoption  
-
-### **6️⃣ Digital Citizenship & Identity**  
-- Digital rights  
-- Participation models  
-- Risks & governance  
-- Societal shifts  
-
-### **7️⃣ Skills & Workforce Transformation**  
-- Digital skills matrix  
-- AI-enabled professions  
-- Learning pathways  
-- Tools & resources  
+It maps how value, intelligence, systems, identity, and infrastructure interact across AI, Web3, automation, and decentralized economies.
 
 ---
 
-## 📁 Repository Structure  
+## CORE ARCHITECTURE
+
+### 🧠 SOVRA OS (Core Intelligence Layer)
+The central intelligence and governance kernel of the ecosystem.
+
+It hosts:
+
+- **SII (Sovereign Intelligence Interface)**  
+  Operational reasoning and structured intelligence execution layer
+
+- **SIIL (Sovereign Institutional Intelligence Layer)**  
+  Institutional modeling, governance logic, and system-level decision intelligence
+
+SOVRA OS functions as the **brain of the ecosystem**, powering reasoning, policy logic, and systemic intelligence flows.
+
+---
+
+### 🌐 SOVRA Open (Public Application Layer)
+The external-facing interface for users and institutions.
+
+It provides:
+
+- Authentication systems
+- User interaction layers
+- Product-facing applications
+- Ecosystem onboarding layer
+- Pi Network integration surfaces
+
+SOVRA Open translates system intelligence into usable digital experiences.
+
+---
+
+### 🔗 SOVRA Grid (Distributed Coordination Layer)
+A distributed execution and coordination fabric.
+
+It enables:
+
+- Multi-node system coordination
+- Task distribution and orchestration
+- Scalable execution of intelligence outputs
+- Networked system operations
+
+SOVRA Grid functions as the **execution nervous system** of the architecture.
+
+---
+
+## DIGITAL ECONOMY INTELLIGENCE FRAMEWORK (LEGACY CORE)
+
+This repository originally began as a structured intelligence system for understanding the digital economy.
+
+It remains the knowledge foundation of SOVRA.
+
+### 🎯 Purpose
+To provide a structured framework for understanding:
+
+- How the digital economy is structured
+- How value is created and exchanged
+- How AI, Web3, automation, and digital infrastructure interact
+- How individuals and institutions adapt to systemic change
+
+---
+
+## 📡 INTELLIGENCE DOMAINS
+
+### 1. Digital Economy Architecture
+- Core system layers
+- Value exchange models
+- Digital public infrastructure
+- AI + Web3 convergence systems
+
+### 2. Global Digital Signals
+- Economic and technological indicators
+- Emerging system patterns
+- Opportunity mapping
+- Regional intelligence shifts
+
+### 3. AI, Automation & Agentic Systems
+- Intelligent workflows
+- Autonomous agents
+- Decision automation systems
+- AI orchestration models
+
+### 4. Web3 & On-Chain Finance Systems
+- Wallet intelligence
+- Smart contract accounting
+- Token valuation systems
+- DeFi analytics and audit structures
+
+### 5. DePIN & Infrastructure Networks
+- Distributed infrastructure systems
+- Compute + mobility networks
+- Citizen-powered infrastructure models
+
+### 6. Digital Identity & Citizenship
+- Digital identity frameworks
+- Governance models
+- Participation systems
+- Rights and risk structures
+
+### 7. Workforce & Skills Transformation
+- Digital skills architecture
+- AI-enabled professions
+- Future-of-work mapping
+- Learning pathways
+
+---
+
+## 📁 SYSTEM STRUCTURE (EVOLVED)
+
+```txt
 /frameworks
-/digital-economy-model
-/skills-matrix
-/identity-model
-/value-chains
-/ecosystem-maps
+  /digital-economy-model
+  /skills-matrix
+  /identity-model
+  /value-chains
+  /ecosystem-maps
 
 /signals
-/daily
-/weekly
-/regional
-/industry
-/opportunities
+  /daily
+  /weekly
+  /regional
+  /industry
+  /opportunities
 
 /ai-automation
-/agents
-/workflows
-/prompts
-/scripts
+  /agents
+  /workflows
+  /prompts
+  /scripts
 
 /web3
-/wallet-analysis
-/ledger-templates
-/smart-contract-audit
-/token-models
+  /wallet-analysis
+  /ledger-templates
+  /smart-contract-audit
+  /token-models
 
 /depins
-/networks
-/compute
-/mobility
+  /networks
+  /compute
+  /mobility
 
 /dashboards
-/charts
-/python-scripts
-/analysis-files
+  /charts
+  /python-scripts
+  /analysis-files
 
 /resources
-/reading
-/datasets
-/learning
-
----
-
-## 🧭 How to Use This Repository  
-- As a **learning guide** for the digital economy  
-- As an **intelligence framework** for research & strategy  
-- As a **toolkit** for AI, Web3, automation & analytics  
-- As a **reference base** for building products, systems & workflows  
-
----
-
-## 🤝 Contributions  
-This project will gradually expand into an open ecosystem.  
-Pull requests, ideas, charts and intelligence contributions are welcome.
-
----
-
-## 📫 Connect  
-**X (Twitter):** @PeterAnalytica  
-**Email:** deshubhq@gmail.com  
-**Telegram:** Ace Insights HQ  
-
----
-
-## 🧭 Philosophy  
-*“The future belongs to those who understand the systems shaping it.”*
+  /reading
+  /datasets
+  /learning
