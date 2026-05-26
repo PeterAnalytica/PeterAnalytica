@@ -1,167 +1,125 @@
-# SOVRA Sovereign Intelligence Stack
+# SOVRA SOVEREIGN INTELLIGENCE STACK
 
-## Digital Economy Intelligence & Systems Architecture
+## Digital Economy Intelligence & Institutional Systems Architecture
 
 By Peter Bamidele (PeterAnalytica)  
 Founder, Sovereign Infrastructure Logic Ltd (SIL)
 
 ---
 
-## SYSTEM OVERVIEW
+## EXECUTIVE SUMMARY
 
-This repository has evolved into the foundational layer of the **SOVRA Sovereign Intelligence Stack**, a structured intelligence architecture for understanding and engineering the digital economy.
+SOVRA is a sovereign intelligence architecture designed to model, interpret, and operationalize the structure of the digital economy.
 
-It maps how value, intelligence, systems, identity, and infrastructure interact across AI, Web3, automation, and decentralized economies.
+It integrates intelligence systems, institutional reasoning, distributed coordination, and application-layer interfaces into a unified multi-layer ecosystem.
 
 ---
 
 ## CORE ARCHITECTURE
 
-### 🧠 SOVRA OS (Core Intelligence Layer)
-The central intelligence and governance kernel of the ecosystem.
+### 🧠 SOVRA OS (Intelligence & Governance Kernel)
 
-It hosts:
+The central reasoning and institutional intelligence layer.
 
-- **SII (Sovereign Intelligence Interface)**  
-  Operational reasoning and structured intelligence execution layer
+It contains two core subsystems:
 
-- **SIIL (Sovereign Institutional Intelligence Layer)**  
-  Institutional modeling, governance logic, and system-level decision intelligence
+- **SII (Sovereign Institute of Intelligence)**  
+  Core intelligence engine for structured reasoning, analysis, and decision systems.
 
-SOVRA OS functions as the **brain of the ecosystem**, powering reasoning, policy logic, and systemic intelligence flows.
+- **SIIL (Sovereign Institute of Intelligence Lab)**  
+  Experimental simulation environment for advanced research, modeling, and institutional system design.
+
+SOVRA OS functions as the **cognitive core of the ecosystem**.
 
 ---
 
-### 🌐 SOVRA Open (Public Application Layer)
-The external-facing interface for users and institutions.
+### 🌐 SOVRA OPEN (Application & Access Layer)
+
+The public-facing interface layer.
 
 It provides:
 
 - Authentication systems
-- User interaction layers
-- Product-facing applications
-- Ecosystem onboarding layer
-- Pi Network integration surfaces
+- User interaction interfaces
+- Application deployment layer
+- External integrations (including Pi Network)
+- Ecosystem onboarding and access control
 
-SOVRA Open translates system intelligence into usable digital experiences.
+SOVRA Open translates intelligence into usable digital systems.
 
 ---
 
-### 🔗 SOVRA Grid (Distributed Coordination Layer)
-A distributed execution and coordination fabric.
+### 🔗 SOVRA GRID (Distributed Coordination Layer)
+
+A scalable execution and orchestration network.
 
 It enables:
 
-- Multi-node system coordination
-- Task distribution and orchestration
-- Scalable execution of intelligence outputs
-- Networked system operations
+- Distributed computation
+- System-wide coordination
+- Multi-node execution logic
+- Infrastructure-level workload balancing
 
-SOVRA Grid functions as the **execution nervous system** of the architecture.
-
----
-
-## DIGITAL ECONOMY INTELLIGENCE FRAMEWORK (LEGACY CORE)
-
-This repository originally began as a structured intelligence system for understanding the digital economy.
-
-It remains the knowledge foundation of SOVRA.
-
-### 🎯 Purpose
-To provide a structured framework for understanding:
-
-- How the digital economy is structured
-- How value is created and exchanged
-- How AI, Web3, automation, and digital infrastructure interact
-- How individuals and institutions adapt to systemic change
+SOVRA Grid functions as the **execution fabric of the ecosystem**.
 
 ---
 
-## 📡 INTELLIGENCE DOMAINS
+### 📡 DIGITAL ECONOMY INTELLIGENCE FRAMEWORK (FOUNDATION LAYER)
+
+The foundational knowledge and intelligence system of SOVRA.
+
+It models:
+
+- Digital economy structure
+- Value creation systems
+- AI + Web3 convergence
+- Automation and institutional transformation
+- Digital infrastructure evolution
+
+---
+
+## INTELLIGENCE DOMAINS
 
 ### 1. Digital Economy Architecture
-- Core system layers
-- Value exchange models
-- Digital public infrastructure
-- AI + Web3 convergence systems
+Systemic structure of digital value creation and exchange.
 
 ### 2. Global Digital Signals
-- Economic and technological indicators
-- Emerging system patterns
-- Opportunity mapping
-- Regional intelligence shifts
+Macro/micro economic intelligence patterns and indicators.
 
-### 3. AI, Automation & Agentic Systems
-- Intelligent workflows
-- Autonomous agents
-- Decision automation systems
-- AI orchestration models
+### 3. AI & Agentic Systems
+Automation pipelines, intelligent agents, and decision systems.
 
-### 4. Web3 & On-Chain Finance Systems
-- Wallet intelligence
-- Smart contract accounting
-- Token valuation systems
-- DeFi analytics and audit structures
+### 4. Web3 & On-Chain Finance
+Blockchain accounting, DeFi systems, token logic, and digital assets.
 
-### 5. DePIN & Infrastructure Networks
-- Distributed infrastructure systems
-- Compute + mobility networks
-- Citizen-powered infrastructure models
+### 5. DePIN Infrastructure Systems
+Physical-digital hybrid infrastructure networks.
 
-### 6. Digital Identity & Citizenship
-- Digital identity frameworks
-- Governance models
-- Participation systems
-- Rights and risk structures
+### 6. Digital Identity & Governance
+Identity systems, participation models, and institutional frameworks.
 
-### 7. Workforce & Skills Transformation
-- Digital skills architecture
-- AI-enabled professions
-- Future-of-work mapping
-- Learning pathways
+### 7. Workforce Intelligence Systems
+Skills transformation, automation impact, and future-of-work modeling.
 
 ---
 
-## 📁 SYSTEM STRUCTURE (EVOLVED)
+## SYSTEM DESIGN PRINCIPLES
+
+- Sovereignty over dependency  
+- Intelligence over abstraction  
+- Systems over applications  
+- Governance over uncontrolled automation  
+- Structure over randomness  
+
+---
+
+## ARCHITECTURAL STACK
 
 ```txt
-/frameworks
-  /digital-economy-model
-  /skills-matrix
-  /identity-model
-  /value-chains
-  /ecosystem-maps
+SOVRA STACK
 
-/signals
-  /daily
-  /weekly
-  /regional
-  /industry
-  /opportunities
+OS   → Intelligence & Governance Kernel (SII + SIIL)
+OPEN → Application & Access Layer
+GRID → Distributed Coordination Layer
 
-/ai-automation
-  /agents
-  /workflows
-  /prompts
-  /scripts
-
-/web3
-  /wallet-analysis
-  /ledger-templates
-  /smart-contract-audit
-  /token-models
-
-/depins
-  /networks
-  /compute
-  /mobility
-
-/dashboards
-  /charts
-  /python-scripts
-  /analysis-files
-
-/resources
-  /reading
-  /datasets
-  /learning
+FOUNDATION → Digital Economy Intelligence Framework
